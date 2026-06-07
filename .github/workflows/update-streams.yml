@@ -1,38 +1,76 @@
-name: StreamCenter-Scraper
+name: Update Sports Streams
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
-
-permissions:
-  contents: write
+     - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "requirements.txt"
 
 jobs:
-  scrape:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repository
+
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
+          pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scraper
-        run: python scraper.py
+      - name: Create output folder
+        run: mkdir -p output
 
-      - name: Commit generated files
+      - name: Run extractor
+        run: python scripts/extractor.py
+
+      - name: Show output files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add sports_events_complete.json live_events_only.json streams_only.json fawanews_playlist.m3u fawanews_193_only.m3u
-          git diff --cached --quiet || git commit -m "Auto-update events and playlists"
-          git push
+          echo "=== Output folder ==="
+          ls -lh output/ || echo "output folder is empty"
+          if [ -f "output/streams.m3u" ]; then
+            COUNT=$(grep -c "#EXTINF" output/streams.m3u || true)
+            echo "STREAM_COUNT=$COUNT" >> $GITHUB_ENV
+          else
+            echo "STREAM_COUNT=0" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+
+          # Add entire output folder — no individual file errors
+          git add output/ || true
+          git add README.md || true
+
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "🔄 Auto-update: ${{ env.STREAM_COUNT }} streams [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: streams-${{ github.run_number }}
+          path: output/
+          retention-days: 3
