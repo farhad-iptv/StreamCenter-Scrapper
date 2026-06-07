@@ -38,7 +38,7 @@ jobs:
         run: mkdir -p output
 
       - name: Run extractor
-        run: python scripts/extractor.py
+        run: python scraper.py
 
       - name: Show output files
         run: |
