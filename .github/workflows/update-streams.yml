@@ -1,76 +1,67 @@
 name: Update Sports Streams
 
+# ────────────────────────────────────────────────
+# When to run this workflow
+# ────────────────────────────────────────────────
 on:
+  # Run automatically every 30 minutes
   schedule:
-     - cron: "*/30 * * * *"
+    - cron: '*/30 * * * *'    # every 30 min
+    # - cron: '0 * * * *'     # every 1 hour (use this if 30min is too frequent)
+    # - cron: '*/15 * * * *'  # every 15 min
+
+  # Also allow manual trigger from GitHub UI
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "scripts/**"
-      - "requirements.txt"
 
+# ────────────────────────────────────────────────
+# Jobs
+# ────────────────────────────────────────────────
 jobs:
-  update:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-
+  update-streams:
+    runs-on: ubuntu-latest        # use latest Ubuntu runner
+    
+    # Give write permission to push files back to repo
     permissions:
       contents: write
 
     steps:
-
-      - name: Checkout
+      # ── Step 1: Download your repo code ──
+      - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
+      # ── Step 2: Install Python ──
+      - name: Setup Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-          cache: pip
+          python-version: '3.11'
 
-      - name: Install dependencies
+      # ── Step 3: Install dependencies ──
+      - name: Install Dependencies
         run: |
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Create output folder
-        run: mkdir -p output
-
-      - name: Run extractor
-        run: python scraper.py
-
-      - name: Show output files
+      # ── Step 4: Run your script ──
+      - name: Run Stream Extractor
         run: |
-          echo "=== Output folder ==="
-          ls -lh output/ || echo "output folder is empty"
-          if [ -f "output/streams.m3u" ]; then
-            COUNT=$(grep -c "#EXTINF" output/streams.m3u || true)
-            echo "STREAM_COUNT=$COUNT" >> $GITHUB_ENV
-          else
-            echo "STREAM_COUNT=0" >> $GITHUB_ENV
-          fi
+          python fetch_streams.py
+        env:
+          PYTHONUNBUFFERED: "1"     # show print() output in real time
 
-      - name: Commit and Push
+      # ── Step 5: Commit and push updated files ──
+      - name: Commit and Push Updated Files
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name  "github-actions[bot]"
-
-          # Add entire output folder — no individual file errors
-          git add output/ || true
-          git add README.md || true
-
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add streams/
+          
+          # Only commit if there are actual changes
           if git diff --staged --quiet; then
-            echo "Nothing to commit."
+            echo "No changes detected — skipping commit"
           else
-            git commit -m "🔄 Auto-update: ${{ env.STREAM_COUNT }} streams [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git commit -m "🔄 Auto-update streams $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
-
-      - name: Upload artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: streams-${{ github.run_number }}
-          path: output/
-          retention-days: 3
