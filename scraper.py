@@ -14,9 +14,9 @@ warnings.filterwarnings("ignore")
 # ────────────────────────────────────────────────
 # Configuration — Change these to your GitHub info
 # ────────────────────────────────────────────────
-GITHUB_USERNAME = "YOUR_USERNAME"
-REPO_NAME       = "sports-streams"
-FOLDER_NAME     = "streams"
+GITHUB_USERNAME = ""
+REPO_NAME       = ""
+FOLDER_NAME     = ""
 
 DEFAULT_LOGO = "https://streams.center/favicon.ico"
 
