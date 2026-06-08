@@ -51,7 +51,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add sepg.xml streams_center.m3u streams_center.m3u8 streams_center.json streams_center_categories.json
+          git add epg.xml streams_center.m3u streams_center.m3u8 streams_center.json streams_center_categories.json
 
           # safe commit (no crash)
           git commit -m "auto update matches" || exit 0
