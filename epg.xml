@@ -1,41 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9814">
-    <display-name lang="en">San Antonio Spurs at New York Knicks</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"/>
-  </channel>
-  <programme start="20260611013000 +0000" stop="20260611043000 +0000" channel="9814">
-    <title lang="en">San Antonio Spurs at New York Knicks</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"/>
-  </programme>
-  <channel id="9830">
-    <display-name lang="en">Milwaukee Brewers at Athletics Athletics</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
-  </channel>
-  <programme start="20260611020500 +0000" stop="20260611050500 +0000" channel="9830">
-    <title lang="en">Milwaukee Brewers at Athletics Athletics</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
-  </programme>
-  <channel id="9831">
-    <display-name lang="en">Houston Astros at Los Angeles Angels</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"/>
-  </channel>
-  <programme start="20260611023800 +0000" stop="20260611053800 +0000" channel="9831">
-    <title lang="en">Houston Astros at Los Angeles Angels</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"/>
-  </programme>
-  <channel id="9816">
-    <display-name lang="en">Los Angeles Sparks at Seattle Storm</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
-  </channel>
-  <programme start="20260611030000 +0000" stop="20260611060000 +0000" channel="9816">
-    <title lang="en">Los Angeles Sparks at Seattle Storm</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
-  </programme>
   <channel id="9832">
     <display-name lang="en">South Africa at Mexico</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/mex.png"/>
