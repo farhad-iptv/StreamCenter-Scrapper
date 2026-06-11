@@ -1,39 +1,39 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com///main//epg.xml"
 # Source: https://streams.center  |  API: https://backend.streamcenter.live/api
-# Generated: 2026-06-11 09:16 UTC  |  Streams: 7
+# Generated: 2026-06-11 13:02 UTC  |  Streams: 7
 # Developed By: Farhad Hossain
 
 #EXTINF:-1 tvg-id="9832" tvg-name="South Africa at Mexico" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/mex.png" group-title="Football" start="2026-06-11 20:00 UTC",South Africa at Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=bodH-2zzwo5zEKLc-BIMCtqs0-RirFUJYOfCvYJ4ZSQ&e=1781180189
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=sW0mdWyAhL_VjpTMIOeKrCu6RDDtHO42Cqg11Spipns&e=1781193768
 
 #EXTINF:-1 tvg-id="9832" tvg-name="South Africa at Mexico (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/mex.png" group-title="Football" start="2026-06-11 20:00 UTC",South Africa at Mexico (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=Kbk6INiM1973hyKP22QS0R5K_wTYEk3XVpdd7rxt2DU&e=1781180190
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=efL3p3e4sCEuTCV24yaJAa2smPnUP__C-pLO1uTkI9s&e=1781193768
 
 #EXTINF:-1 tvg-id="9832" tvg-name="South Africa at Mexico" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/mex.png" group-title="Football" start="2026-06-11 20:00 UTC",South Africa at Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=3Fot_zhFegMUiiFqSx8JpvyzbQkRF5Rl8e9tO1Agfyk&e=1781180190
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=c4gNDbhm13YHGNRF0Hy-dV4Mjgt6_JQMzODyjVDzfZg&e=1781193768
 
 #EXTINF:-1 tvg-id="9834" tvg-name="Vegas Golden Knights at Carolina Hurricanes" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-title="Hockey" start="2026-06-12 01:00 UTC",Vegas Golden Knights at Carolina Hurricanes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/uyopzarf50.m3u8?st=GvccXzVILKxa0iUh1DtffAEM7StLrwnkyyQF1DZaRXc&e=1781180189
+https://edgestreams.pro/hls/uyopzarf50.m3u8?st=rm7F0sjdupakyQRWXtjZcHSanzVDXASy5TbtF14Q1z0&e=1781193768
 
 #EXTINF:-1 tvg-id="9833" tvg-name="Czechia at South Korea" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/kors.png" group-title="Football" start="2026-06-12 03:00 UTC",Czechia at South Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=bodH-2zzwo5zEKLc-BIMCtqs0-RirFUJYOfCvYJ4ZSQ&e=1781180189
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=sW0mdWyAhL_VjpTMIOeKrCu6RDDtHO42Cqg11Spipns&e=1781193768
 
 #EXTINF:-1 tvg-id="9833" tvg-name="Czechia at South Korea (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/kors.png" group-title="Football" start="2026-06-12 03:00 UTC",Czechia at South Korea (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=UQnz5yAekykBBhJaYVmVHGTADxPle7HOhpUdLZJBSgc&e=1781180189
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=efL3p3e4sCEuTCV24yaJAa2smPnUP__C-pLO1uTkI9s&e=1781193768
 
 #EXTINF:-1 tvg-id="9833" tvg-name="Czechia at South Korea" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/kors.png" group-title="Football" start="2026-06-12 03:00 UTC",Czechia at South Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=5IPRt10xunACyEcb1fdWy72XRLBn58u8ZZmHQ2fHWcs&e=1781180189
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=c4gNDbhm13YHGNRF0Hy-dV4Mjgt6_JQMzODyjVDzfZg&e=1781193768
