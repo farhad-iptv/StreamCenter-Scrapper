@@ -1,104 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9813">
-    <display-name lang="en">Costa Rica at England</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/eng.png"/>
-  </channel>
-  <programme start="20260610210000 +0000" stop="20260611000000 +0000" channel="9813">
-    <title lang="en">Costa Rica at England</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/eng.png"/>
-  </programme>
-  <channel id="9820">
-    <display-name lang="en">Cincinnati Reds at San Diego Padres</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"/>
-  </channel>
-  <programme start="20260610211000 +0000" stop="20260611001000 +0000" channel="9820">
-    <title lang="en">Cincinnati Reds at San Diego Padres</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"/>
-  </programme>
-  <channel id="9821">
-    <display-name lang="en">Seattle Mariners at Baltimore Orioles</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"/>
-  </channel>
-  <programme start="20260610233500 +0000" stop="20260611023500 +0000" channel="9821">
-    <title lang="en">Seattle Mariners at Baltimore Orioles</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"/>
-  </programme>
-  <channel id="9822">
-    <display-name lang="en">Arizona Diamondbacks at Miami Marlins</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"/>
-  </channel>
-  <programme start="20260610234000 +0000" stop="20260611024000 +0000" channel="9822">
-    <title lang="en">Arizona Diamondbacks at Miami Marlins</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"/>
-  </programme>
-  <channel id="9823">
-    <display-name lang="en">Los Angeles Dodgers at Pittsburgh Pirates</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"/>
-  </channel>
-  <programme start="20260610234000 +0000" stop="20260611024000 +0000" channel="9823">
-    <title lang="en">Los Angeles Dodgers at Pittsburgh Pirates</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"/>
-  </programme>
-  <channel id="9824">
-    <display-name lang="en">Minnesota Twins at Detroit Tigers</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"/>
-  </channel>
-  <programme start="20260610234000 +0000" stop="20260611024000 +0000" channel="9824">
-    <title lang="en">Minnesota Twins at Detroit Tigers</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"/>
-  </programme>
-  <channel id="9815">
-    <display-name lang="en">Connecticut Sun at Toronto Tempo</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
-  </channel>
-  <programme start="20260611000000 +0000" stop="20260611030000 +0000" channel="9815">
-    <title lang="en">Connecticut Sun at Toronto Tempo</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
-  </programme>
-  <channel id="9825">
-    <display-name lang="en">Philadelphia Phillies at Toronto Blue Jays</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"/>
-  </channel>
-  <programme start="20260611000700 +0000" stop="20260611030700 +0000" channel="9825">
-    <title lang="en">Philadelphia Phillies at Toronto Blue Jays</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"/>
-  </programme>
-  <channel id="9826">
-    <display-name lang="en">St. Louis Cardinals at New York Mets</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"/>
-  </channel>
-  <programme start="20260611001000 +0000" stop="20260611031000 +0000" channel="9826">
-    <title lang="en">St. Louis Cardinals at New York Mets</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"/>
-  </programme>
-  <channel id="9827">
-    <display-name lang="en">Atlanta Braves at Chicago White Sox</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </channel>
-  <programme start="20260611004000 +0000" stop="20260611034000 +0000" channel="9827">
-    <title lang="en">Atlanta Braves at Chicago White Sox</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </programme>
-  <channel id="9828">
-    <display-name lang="en">Texas Rangers at Kansas City Royals</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
-  </channel>
-  <programme start="20260611004000 +0000" stop="20260611034000 +0000" channel="9828">
-    <title lang="en">Texas Rangers at Kansas City Royals</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
-  </programme>
   <channel id="9814">
     <display-name lang="en">San Antonio Spurs at New York Knicks</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"/>
@@ -107,15 +8,6 @@
     <title lang="en">San Antonio Spurs at New York Knicks</title>
     <category lang="en">Basketball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"/>
-  </programme>
-  <channel id="9829">
-    <display-name lang="en">Chicago Cubs at Colorado Rockies</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"/>
-  </channel>
-  <programme start="20260611014000 +0000" stop="20260611044000 +0000" channel="9829">
-    <title lang="en">Chicago Cubs at Colorado Rockies</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"/>
   </programme>
   <channel id="9830">
     <display-name lang="en">Milwaukee Brewers at Athletics Athletics</display-name>
