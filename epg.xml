@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9867">
-    <display-name lang="en">Barcelona-Catalunya Grand Prix  Practice 2</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&amp;s=10"/>
-  </channel>
-  <programme start="20260612160000 +0000" stop="20260612190000 +0000" channel="9867">
-    <title lang="en">Barcelona-Catalunya Grand Prix  Practice 2</title>
-    <category lang="en">Motor Sport</category>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&amp;s=10"/>
-  </programme>
   <channel id="9868">
     <display-name lang="en">Bosnia-Herzegovina at Canada</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/can.png"/>
