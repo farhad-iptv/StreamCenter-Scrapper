@@ -9,15 +9,6 @@
     <category lang="en">Boxing</category>
     <icon src="https://streams.center/favicon.ico"/>
   </programme>
-  <channel id="9875">
-    <display-name lang="en">St. Louis Cardinals at Minnesota Twins</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"/>
-  </channel>
-  <programme start="20260613191000 +0000" stop="20260613221000 +0000" channel="9875">
-    <title lang="en">St. Louis Cardinals at Minnesota Twins</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"/>
-  </programme>
   <channel id="9871">
     <display-name lang="en">Switzerland at Qatar</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/qat.png"/>
@@ -183,15 +174,6 @@
     <category lang="en">Basketball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"/>
   </programme>
-  <channel id="9897">
-    <display-name lang="en">Dallas Wings at Portland Fire</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
-  </channel>
-  <programme start="20260614013000 +0000" stop="20260614043000 +0000" channel="9897">
-    <title lang="en">Dallas Wings at Portland Fire</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
-  </programme>
   <channel id="9890">
     <display-name lang="en">New York Knicks at San Antonio Spurs</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"/>
@@ -200,6 +182,15 @@
     <title lang="en">New York Knicks at San Antonio Spurs</title>
     <category lang="en">Basketball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"/>
+  </programme>
+  <channel id="9897">
+    <display-name lang="en">Dallas Wings at Portland Fire</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
+  </channel>
+  <programme start="20260614013000 +0000" stop="20260614043000 +0000" channel="9897">
+    <title lang="en">Dallas Wings at Portland Fire</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
   </programme>
   <channel id="9873">
     <display-name lang="en">Scotland at Haiti</display-name>
