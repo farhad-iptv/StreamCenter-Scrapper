@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9901">
-    <display-name lang="en">RAF 10: Khamzat Chimaev vs Dillon Danis</display-name>
-    <icon src="https://streams.center/favicon.ico"/>
-  </channel>
-  <programme start="20260614010000 +0000" stop="20260614040000 +0000" channel="9901">
-    <title lang="en">RAF 10: Khamzat Chimaev vs Dillon Danis</title>
-    <category lang="en">Fight MMA</category>
-    <icon src="https://streams.center/favicon.ico"/>
-  </programme>
   <channel id="9924">
     <display-name lang="en">MSC Cruises Barcelona-Catalunya Grand Prix</display-name>
     <icon src="https://streams.center/favicon.ico"/>
