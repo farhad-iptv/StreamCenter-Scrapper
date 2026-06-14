@@ -1,41 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9914">
-    <display-name lang="en">Houston Astros at Kansas City Royals</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
-  </channel>
-  <programme start="20260614191000 +0000" stop="20260614221000 +0000" channel="9914">
-    <title lang="en">Houston Astros at Kansas City Royals</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
-  </programme>
-  <channel id="9915">
-    <display-name lang="en">Los Angeles Dodgers at Chicago White Sox</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </channel>
-  <programme start="20260614191000 +0000" stop="20260614221000 +0000" channel="9915">
-    <title lang="en">Los Angeles Dodgers at Chicago White Sox</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </programme>
-  <channel id="9916">
-    <display-name lang="en">Philadelphia Phillies at Milwaukee Brewers</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"/>
-  </channel>
-  <programme start="20260614191000 +0000" stop="20260614221000 +0000" channel="9916">
-    <title lang="en">Philadelphia Phillies at Milwaukee Brewers</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"/>
-  </programme>
-  <channel id="9917">
-    <display-name lang="en">St. Louis Cardinals at Minnesota Twins</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"/>
-  </channel>
-  <programme start="20260614191000 +0000" stop="20260614221000 +0000" channel="9917">
-    <title lang="en">St. Louis Cardinals at Minnesota Twins</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"/>
-  </programme>
   <channel id="9922">
     <display-name lang="en">Washington Mystics at New York Liberty</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/ny.png"/>
