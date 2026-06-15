@@ -84,6 +84,15 @@
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"/>
   </programme>
+  <channel id="9942">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfra_eFdWxU_YTAeQGbvDLpdC75TzrKEAUQQ9zpyG9rA&amp;s=10"/>
+  </channel>
+  <programme start="20260616010000 +0000" stop="20260616040000 +0000" channel="9942">
+    <title lang="en">WWE: Monday Night RAW</title>
+    <category lang="en">WWE</category>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfra_eFdWxU_YTAeQGbvDLpdC75TzrKEAUQQ9zpyG9rA&amp;s=10"/>
+  </programme>
   <channel id="9939">
     <display-name lang="en">Las Vegas Aces at Dallas Wings</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"/>
