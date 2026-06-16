@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9942">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfra_eFdWxU_YTAeQGbvDLpdC75TzrKEAUQQ9zpyG9rA&amp;s=10"/>
-  </channel>
-  <programme start="20260616010000 +0000" stop="20260616040000 +0000" channel="9942">
-    <title lang="en">WWE: Monday Night RAW</title>
-    <category lang="en">WWE</category>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfra_eFdWxU_YTAeQGbvDLpdC75TzrKEAUQQ9zpyG9rA&amp;s=10"/>
-  </programme>
   <channel id="9943">
     <display-name lang="en">Senegal at France</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/fra.png"/>
