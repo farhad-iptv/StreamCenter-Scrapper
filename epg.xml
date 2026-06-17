@@ -1,41 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9966">
-    <display-name lang="en">Detroit Tigers at Houston Astros</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"/>
-  </channel>
-  <programme start="20260617191000 +0000" stop="20260617221000 +0000" channel="9966">
-    <title lang="en">Detroit Tigers at Houston Astros</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"/>
-  </programme>
-  <channel id="9967">
-    <display-name lang="en">San Diego Padres at St. Louis Cardinals</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"/>
-  </channel>
-  <programme start="20260617191500 +0000" stop="20260617221500 +0000" channel="9967">
-    <title lang="en">San Diego Padres at St. Louis Cardinals</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"/>
-  </programme>
-  <channel id="9968">
-    <display-name lang="en">Tampa Bay Rays at Los Angeles Dodgers</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"/>
-  </channel>
-  <programme start="20260617201000 +0000" stop="20260617231000 +0000" channel="9968">
-    <title lang="en">Tampa Bay Rays at Los Angeles Dodgers</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"/>
-  </programme>
-  <channel id="9969">
-    <display-name lang="en">Los Angeles Angels at Arizona Diamondbacks</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"/>
-  </channel>
-  <programme start="20260617204000 +0000" stop="20260617234000 +0000" channel="9969">
-    <title lang="en">Los Angeles Angels at Arizona Diamondbacks</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"/>
-  </programme>
   <channel id="9978">
     <display-name lang="en">Croatia at England</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/eng.png"/>
@@ -93,6 +57,15 @@
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/gha.png"/>
   </programme>
+  <channel id="9981">
+    <display-name lang="en">Washington Mystics at Connecticut Sun</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/con.png"/>
+  </channel>
+  <programme start="20260618000000 +0000" stop="20260618030000 +0000" channel="9981">
+    <title lang="en">Washington Mystics at Connecticut Sun</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/con.png"/>
+  </programme>
   <channel id="9971">
     <display-name lang="en">Chicago White Sox at New York Yankees</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"/>
@@ -120,6 +93,15 @@
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"/>
   </programme>
+  <channel id="9982">
+    <display-name lang="en">New York Liberty at Chicago Sky</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"/>
+  </channel>
+  <programme start="20260618010000 +0000" stop="20260618040000 +0000" channel="9982">
+    <title lang="en">New York Liberty at Chicago Sky</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"/>
+  </programme>
   <channel id="9974">
     <display-name lang="en">Colorado Rockies at Chicago Cubs</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"/>
@@ -146,6 +128,42 @@
     <title lang="en">Pittsburgh Pirates at Athletics Athletics</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
+  </programme>
+  <channel id="9983">
+    <display-name lang="en">Dallas Wings at Golden State Valkyries</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"/>
+  </channel>
+  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9983">
+    <title lang="en">Dallas Wings at Golden State Valkyries</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"/>
+  </programme>
+  <channel id="9984">
+    <display-name lang="en">Minnesota Lynx at Los Angeles Sparks</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/la.png"/>
+  </channel>
+  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9984">
+    <title lang="en">Minnesota Lynx at Los Angeles Sparks</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/la.png"/>
+  </programme>
+  <channel id="9985">
+    <display-name lang="en">Las Vegas Aces at Phoenix Mercury</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"/>
+  </channel>
+  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9985">
+    <title lang="en">Las Vegas Aces at Phoenix Mercury</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"/>
+  </programme>
+  <channel id="9986">
+    <display-name lang="en">Seattle Storm at Portland Fire</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
+  </channel>
+  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9986">
+    <title lang="en">Seattle Storm at Portland Fire</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
   </programme>
   <channel id="9980">
     <display-name lang="en">Colombia at Uzbekistan</display-name>
