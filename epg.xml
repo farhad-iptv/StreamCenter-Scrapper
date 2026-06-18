@@ -1,168 +1,189 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9970">
+  <channel id="9987">
+    <display-name lang="en">South Africa at Czechia</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
+  </channel>
+  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
+    <title lang="en">South Africa at Czechia</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
+  </programme>
+  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
+    <title lang="en">South Africa at Czechia (Spanish)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
+  </programme>
+  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
+    <title lang="en">South Africa at Czechia</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
+  </programme>
+  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
+    <title lang="en">South Africa at Czechia (Arabic)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
+  </programme>
+  <channel id="9992">
     <display-name lang="en">Toronto Blue Jays at Boston Red Sox</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"/>
   </channel>
-  <programme start="20260617234500 +0000" stop="20260618024500 +0000" channel="9970">
+  <programme start="20260618183500 +0000" stop="20260618213500 +0000" channel="9992">
     <title lang="en">Toronto Blue Jays at Boston Red Sox</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"/>
   </programme>
-  <channel id="9979">
-    <display-name lang="en">Panama at Ghana</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/gha.png"/>
-  </channel>
-  <programme start="20260618000000 +0000" stop="20260618030000 +0000" channel="9979">
-    <title lang="en">Panama at Ghana</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/gha.png"/>
-  </programme>
-  <programme start="20260618000000 +0000" stop="20260618030000 +0000" channel="9979">
-    <title lang="en">Panama at Ghana (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/gha.png"/>
-  </programme>
-  <programme start="20260618000000 +0000" stop="20260618030000 +0000" channel="9979">
-    <title lang="en">Panama at Ghana</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/gha.png"/>
-  </programme>
-  <programme start="20260618000000 +0000" stop="20260618030000 +0000" channel="9979">
-    <title lang="en">Panama at Ghana (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/gha.png"/>
-  </programme>
-  <channel id="9981">
-    <display-name lang="en">Washington Mystics at Connecticut Sun</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/con.png"/>
-  </channel>
-  <programme start="20260618000000 +0000" stop="20260618030000 +0000" channel="9981">
-    <title lang="en">Washington Mystics at Connecticut Sun</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/con.png"/>
-  </programme>
-  <channel id="9971">
-    <display-name lang="en">Chicago White Sox at New York Yankees</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"/>
-  </channel>
-  <programme start="20260618000500 +0000" stop="20260618030500 +0000" channel="9971">
-    <title lang="en">Chicago White Sox at New York Yankees</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"/>
-  </programme>
-  <channel id="9972">
-    <display-name lang="en">San Francisco Giants at Atlanta Braves</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"/>
-  </channel>
-  <programme start="20260618001500 +0000" stop="20260618031500 +0000" channel="9972">
-    <title lang="en">San Francisco Giants at Atlanta Braves</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"/>
-  </programme>
-  <channel id="9973">
+  <channel id="9993">
     <display-name lang="en">Cleveland Guardians at Milwaukee Brewers</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"/>
   </channel>
-  <programme start="20260618004000 +0000" stop="20260618034000 +0000" channel="9973">
+  <programme start="20260618191000 +0000" stop="20260618221000 +0000" channel="9993">
     <title lang="en">Cleveland Guardians at Milwaukee Brewers</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"/>
   </programme>
-  <channel id="9982">
-    <display-name lang="en">New York Liberty at Chicago Sky</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"/>
+  <channel id="9994">
+    <display-name lang="en">Minnesota Twins at Texas Rangers</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"/>
   </channel>
-  <programme start="20260618010000 +0000" stop="20260618040000 +0000" channel="9982">
-    <title lang="en">New York Liberty at Chicago Sky</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"/>
-  </programme>
-  <channel id="9974">
-    <display-name lang="en">Colorado Rockies at Chicago Cubs</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"/>
-  </channel>
-  <programme start="20260618010500 +0000" stop="20260618040500 +0000" channel="9974">
-    <title lang="en">Colorado Rockies at Chicago Cubs</title>
+  <programme start="20260618193500 +0000" stop="20260618223500 +0000" channel="9994">
+    <title lang="en">Minnesota Twins at Texas Rangers</title>
     <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"/>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"/>
   </programme>
-  <channel id="9975">
+  <channel id="9988">
+    <display-name lang="en">Bosnia-Herzegovina at Switzerland</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
+  </channel>
+  <programme start="20260618200000 +0000" stop="20260618230000 +0000" channel="9988">
+    <title lang="en">Bosnia-Herzegovina at Switzerland</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
+  </programme>
+  <programme start="20260618200000 +0000" stop="20260618230000 +0000" channel="9988">
+    <title lang="en">Bosnia-Herzegovina at Switzerland (Spanish)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
+  </programme>
+  <programme start="20260618200000 +0000" stop="20260618230000 +0000" channel="9988">
+    <title lang="en">Bosnia-Herzegovina at Switzerland</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
+  </programme>
+  <programme start="20260618200000 +0000" stop="20260618230000 +0000" channel="9988">
+    <title lang="en">Bosnia-Herzegovina at Switzerland (Arabic)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
+  </programme>
+  <channel id="9995">
     <display-name lang="en">Baltimore Orioles at Seattle Mariners</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"/>
   </channel>
-  <programme start="20260618024000 +0000" stop="20260618054000 +0000" channel="9975">
+  <programme start="20260618211000 +0000" stop="20260619001000 +0000" channel="9995">
     <title lang="en">Baltimore Orioles at Seattle Mariners</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"/>
   </programme>
-  <channel id="9976">
-    <display-name lang="en">Pittsburgh Pirates at Athletics Athletics</display-name>
+  <channel id="9989">
+    <display-name lang="en">Qatar at Canada</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/can.png"/>
+  </channel>
+  <programme start="20260618230000 +0000" stop="20260619020000 +0000" channel="9989">
+    <title lang="en">Qatar at Canada</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/can.png"/>
+  </programme>
+  <programme start="20260618230000 +0000" stop="20260619020000 +0000" channel="9989">
+    <title lang="en">Qatar at Canada (Spanish)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/can.png"/>
+  </programme>
+  <programme start="20260618230000 +0000" stop="20260619020000 +0000" channel="9989">
+    <title lang="en">Qatar at Canada</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/can.png"/>
+  </programme>
+  <programme start="20260618230000 +0000" stop="20260619020000 +0000" channel="9989">
+    <title lang="en">Qatar at Canada (Arabic)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/can.png"/>
+  </programme>
+  <channel id="9996">
+    <display-name lang="en">New York Mets at Philadelphia Phillies</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"/>
+  </channel>
+  <programme start="20260618234000 +0000" stop="20260619024000 +0000" channel="9996">
+    <title lang="en">New York Mets at Philadelphia Phillies</title>
+    <category lang="en">Baseball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"/>
+  </programme>
+  <channel id="9997">
+    <display-name lang="en">Chicago White Sox at New York Yankees</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"/>
+  </channel>
+  <programme start="20260619000500 +0000" stop="20260619030500 +0000" channel="9997">
+    <title lang="en">Chicago White Sox at New York Yankees</title>
+    <category lang="en">Baseball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"/>
+  </programme>
+  <channel id="9998">
+    <display-name lang="en">San Francisco Giants at Atlanta Braves</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"/>
+  </channel>
+  <programme start="20260619001500 +0000" stop="20260619031500 +0000" channel="9998">
+    <title lang="en">San Francisco Giants at Atlanta Braves</title>
+    <category lang="en">Baseball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"/>
+  </programme>
+  <channel id="9991">
+    <display-name lang="en">Atlanta Dream at Indiana Fever</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/ind.png"/>
+  </channel>
+  <programme start="20260619003000 +0000" stop="20260619033000 +0000" channel="9991">
+    <title lang="en">Atlanta Dream at Indiana Fever</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/ind.png"/>
+  </programme>
+  <channel id="9999">
+    <display-name lang="en">St. Louis Cardinals at Kansas City Royals</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
+  </channel>
+  <programme start="20260619004000 +0000" stop="20260619034000 +0000" channel="9999">
+    <title lang="en">St. Louis Cardinals at Kansas City Royals</title>
+    <category lang="en">Baseball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
+  </programme>
+  <channel id="9990">
+    <display-name lang="en">South Korea at Mexico</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/mex.png"/>
+  </channel>
+  <programme start="20260619020000 +0000" stop="20260619050000 +0000" channel="9990">
+    <title lang="en">South Korea at Mexico</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/mex.png"/>
+  </programme>
+  <programme start="20260619020000 +0000" stop="20260619050000 +0000" channel="9990">
+    <title lang="en">South Korea at Mexico (Spanish)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/mex.png"/>
+  </programme>
+  <programme start="20260619020000 +0000" stop="20260619050000 +0000" channel="9990">
+    <title lang="en">South Korea at Mexico</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/mex.png"/>
+  </programme>
+  <programme start="20260619020000 +0000" stop="20260619050000 +0000" channel="9990">
+    <title lang="en">South Korea at Mexico (Arabic)</title>
+    <category lang="en">Football</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/mex.png"/>
+  </programme>
+  <channel id="10000">
+    <display-name lang="en">Los Angeles Angels at Athletics Athletics</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
   </channel>
-  <programme start="20260618024000 +0000" stop="20260618054000 +0000" channel="9976">
-    <title lang="en">Pittsburgh Pirates at Athletics Athletics</title>
+  <programme start="20260619024000 +0000" stop="20260619054000 +0000" channel="10000">
+    <title lang="en">Los Angeles Angels at Athletics Athletics</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
-  </programme>
-  <channel id="9980">
-    <display-name lang="en">Colombia at Uzbekistan</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"/>
-  </channel>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9980">
-    <title lang="en">Colombia at Uzbekistan</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"/>
-  </programme>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9980">
-    <title lang="en">Colombia at Uzbekistan (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"/>
-  </programme>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9980">
-    <title lang="en">Colombia at Uzbekistan</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"/>
-  </programme>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9980">
-    <title lang="en">Colombia at Uzbekistan (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"/>
-  </programme>
-  <channel id="9983">
-    <display-name lang="en">Dallas Wings at Golden State Valkyries</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"/>
-  </channel>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9983">
-    <title lang="en">Dallas Wings at Golden State Valkyries</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"/>
-  </programme>
-  <channel id="9984">
-    <display-name lang="en">Minnesota Lynx at Los Angeles Sparks</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/la.png"/>
-  </channel>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9984">
-    <title lang="en">Minnesota Lynx at Los Angeles Sparks</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/la.png"/>
-  </programme>
-  <channel id="9985">
-    <display-name lang="en">Las Vegas Aces at Phoenix Mercury</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"/>
-  </channel>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9985">
-    <title lang="en">Las Vegas Aces at Phoenix Mercury</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"/>
-  </programme>
-  <channel id="9986">
-    <display-name lang="en">Seattle Storm at Portland Fire</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
-  </channel>
-  <programme start="20260618030000 +0000" stop="20260618060000 +0000" channel="9986">
-    <title lang="en">Seattle Storm at Portland Fire</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"/>
   </programme>
 </tv>
