@@ -1,23 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9992">
-    <display-name lang="en">Toronto Blue Jays at Boston Red Sox</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"/>
-  </channel>
-  <programme start="20260618183500 +0000" stop="20260618213500 +0000" channel="9992">
-    <title lang="en">Toronto Blue Jays at Boston Red Sox</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"/>
-  </programme>
-  <channel id="9993">
-    <display-name lang="en">Cleveland Guardians at Milwaukee Brewers</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"/>
-  </channel>
-  <programme start="20260618191000 +0000" stop="20260618221000 +0000" channel="9993">
-    <title lang="en">Cleveland Guardians at Milwaukee Brewers</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"/>
-  </programme>
   <channel id="9994">
     <display-name lang="en">Minnesota Twins at Texas Rangers</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"/>
