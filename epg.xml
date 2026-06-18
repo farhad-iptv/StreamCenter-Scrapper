@@ -1,29 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="9987">
-    <display-name lang="en">South Africa at Czechia</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
-  </channel>
-  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
-    <title lang="en">South Africa at Czechia</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
-  </programme>
-  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
-    <title lang="en">South Africa at Czechia (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
-  </programme>
-  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
-    <title lang="en">South Africa at Czechia</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
-  </programme>
-  <programme start="20260618170000 +0000" stop="20260618200000 +0000" channel="9987">
-    <title lang="en">South Africa at Czechia (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/cze.png"/>
-  </programme>
   <channel id="9992">
     <display-name lang="en">Toronto Blue Jays at Boston Red Sox</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"/>
