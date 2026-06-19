@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10000">
-    <display-name lang="en">Los Angeles Angels at Athletics Athletics</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
-  </channel>
-  <programme start="20260619024000 +0000" stop="20260619054000 +0000" channel="10000">
-    <title lang="en">Los Angeles Angels at Athletics Athletics</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
-  </programme>
   <channel id="10019">
     <display-name lang="en">Motogp CZECHIA</display-name>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oNUYcRENB6JW4rpLrNXZEE2nDtJ1yRPwLWWxDkb9ww&amp;s=10"/>
