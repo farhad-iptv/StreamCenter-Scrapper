@@ -1,32 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10029">
-    <display-name lang="en">Toronto Blue Jays at Chicago Cubs</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"/>
-  </channel>
-  <programme start="20260620192000 +0000" stop="20260620222000 +0000" channel="10029">
-    <title lang="en">Toronto Blue Jays at Chicago Cubs</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"/>
-  </programme>
-  <channel id="10046">
-    <display-name lang="en">Seattle Storm at Phoenix Mercury</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"/>
-  </channel>
-  <programme start="20260620200000 +0000" stop="20260620230000 +0000" channel="10046">
-    <title lang="en">Seattle Storm at Phoenix Mercury</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"/>
-  </programme>
-  <channel id="10020">
-    <display-name lang="en">Motogp CZECHIA Qualifying </display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oNUYcRENB6JW4rpLrNXZEE2nDtJ1yRPwLWWxDkb9ww&amp;s=10"/>
-  </channel>
-  <programme start="20260620210000 +0000" stop="20260621000000 +0000" channel="10020">
-    <title lang="en">Motogp CZECHIA Qualifying </title>
-    <category lang="en">Motor Sport</category>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oNUYcRENB6JW4rpLrNXZEE2nDtJ1yRPwLWWxDkb9ww&amp;s=10"/>
-  </programme>
   <channel id="10042">
     <display-name lang="en">Ivory Coast at Germany</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/ger.png"/>
@@ -114,6 +87,15 @@
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"/>
   </programme>
+  <channel id="10047">
+    <display-name lang="en">Chicago Sky at Dallas Wings</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"/>
+  </channel>
+  <programme start="20260621010000 +0000" stop="20260621040000 +0000" channel="10047">
+    <title lang="en">Chicago Sky at Dallas Wings</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"/>
+  </programme>
   <channel id="10043">
     <display-name lang="en">Curaçao at Ecuador</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"/>
@@ -137,15 +119,6 @@
     <title lang="en">Curaçao at Ecuador (Arabic)</title>
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"/>
-  </programme>
-  <channel id="10047">
-    <display-name lang="en">Chicago Sky at Dallas Wings</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"/>
-  </channel>
-  <programme start="20260621010000 +0000" stop="20260621040000 +0000" channel="10047">
-    <title lang="en">Chicago Sky at Dallas Wings</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"/>
   </programme>
   <channel id="10036">
     <display-name lang="en">Pittsburgh Pirates at Colorado Rockies</display-name>
