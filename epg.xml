@@ -141,21 +141,6 @@
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/nor.png"/>
   </programme>
-  <programme start="20260623010000 +0000" stop="20260623040000 +0000" channel="10072">
-    <title lang="en">Senegal at Norway (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/nor.png"/>
-  </programme>
-  <programme start="20260623010000 +0000" stop="20260623040000 +0000" channel="10072">
-    <title lang="en">Senegal at Norway</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/nor.png"/>
-  </programme>
-  <programme start="20260623010000 +0000" stop="20260623040000 +0000" channel="10072">
-    <title lang="en">Senegal at Norway (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/nor.png"/>
-  </programme>
   <channel id="10089">
     <display-name lang="en">Phoenix Mercury at Indiana Fever</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/ind.png"/>
