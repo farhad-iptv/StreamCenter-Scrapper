@@ -1,47 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10086">
-    <display-name lang="en">Atlanta Braves at San Diego Padres</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"/>
-  </channel>
-  <programme start="20260623030000 +0000" stop="20260623060000 +0000" channel="10086">
-    <title lang="en">Atlanta Braves at San Diego Padres</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"/>
-  </programme>
-  <channel id="10090">
-    <display-name lang="en">Dallas Wings at Seattle Storm</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
-  </channel>
-  <programme start="20260623030000 +0000" stop="20260623060000 +0000" channel="10090">
-    <title lang="en">Dallas Wings at Seattle Storm</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
-  </programme>
-  <channel id="10073">
-    <display-name lang="en">Algeria at Jordan</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/jor.png"/>
-  </channel>
-  <programme start="20260623040000 +0000" stop="20260623070000 +0000" channel="10073">
-    <title lang="en">Algeria at Jordan</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/jor.png"/>
-  </programme>
-  <programme start="20260623040000 +0000" stop="20260623070000 +0000" channel="10073">
-    <title lang="en">Algeria at Jordan (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/jor.png"/>
-  </programme>
-  <programme start="20260623040000 +0000" stop="20260623070000 +0000" channel="10073">
-    <title lang="en">Algeria at Jordan</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/jor.png"/>
-  </programme>
-  <programme start="20260623040000 +0000" stop="20260623070000 +0000" channel="10073">
-    <title lang="en">Algeria at Jordan (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/jor.png"/>
-  </programme>
   <channel id="10108">
     <display-name lang="en">Uzbekistan at Portugal</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/por.png"/>
