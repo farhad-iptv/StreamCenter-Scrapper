@@ -171,6 +171,15 @@
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"/>
   </programme>
+  <channel id="10112">
+    <display-name lang="en"> NBA Draft</display-name>
+    <icon src="https://streams.center/favicon.ico"/>
+  </channel>
+  <programme start="20260624010000 +0000" stop="20260624040000 +0000" channel="10112">
+    <title lang="en"> NBA Draft</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://streams.center/favicon.ico"/>
+  </programme>
   <channel id="10103">
     <display-name lang="en">Boston Red Sox at Colorado Rockies</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"/>
