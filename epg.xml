@@ -205,6 +205,15 @@
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"/>
   </programme>
+  <channel id="10139">
+    <display-name lang="en"> 2026 NBA Draft | Round 2</display-name>
+    <icon src="https://streams.center/favicon.ico"/>
+  </channel>
+  <programme start="20260625010000 +0000" stop="20260625040000 +0000" channel="10139">
+    <title lang="en"> 2026 NBA Draft | Round 2</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://streams.center/favicon.ico"/>
+  </programme>
   <channel id="10115">
     <display-name lang="en">Portland Fire at Chicago Sky</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"/>
