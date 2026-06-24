@@ -1,51 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10119">
-    <display-name lang="en">Cleveland Guardians at Chicago White Sox</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </channel>
-  <programme start="20260624191000 +0000" stop="20260624221000 +0000" channel="10119">
-    <title lang="en">Cleveland Guardians at Chicago White Sox</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </programme>
-  <channel id="10133">
-    <display-name lang="en">Qatar at Bosnia-Herzegovina</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/bih.png"/>
-  </channel>
-  <programme start="20260624200000 +0000" stop="20260624230000 +0000" channel="10133">
-    <title lang="en">Qatar at Bosnia-Herzegovina</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/bih.png"/>
-  </programme>
-  <programme start="20260624200000 +0000" stop="20260624230000 +0000" channel="10133">
-    <title lang="en">Qatar at Bosnia-Herzegovina (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/bih.png"/>
-  </programme>
-  <channel id="10134">
-    <display-name lang="en">Canada at Switzerland</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
-  </channel>
-  <programme start="20260624200000 +0000" stop="20260624230000 +0000" channel="10134">
-    <title lang="en">Canada at Switzerland</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
-  </programme>
-  <programme start="20260624200000 +0000" stop="20260624230000 +0000" channel="10134">
-    <title lang="en">Canada at Switzerland (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/sui.png"/>
-  </programme>
-  <channel id="10120">
-    <display-name lang="en">Boston Red Sox at Colorado Rockies</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"/>
-  </channel>
-  <programme start="20260624201000 +0000" stop="20260624231000 +0000" channel="10120">
-    <title lang="en">Boston Red Sox at Colorado Rockies</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"/>
-  </programme>
   <channel id="10121">
     <display-name lang="en">Baltimore Orioles at Los Angeles Angels</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"/>
