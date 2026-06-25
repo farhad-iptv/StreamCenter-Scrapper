@@ -32,11 +32,6 @@
     <icon src="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"/>
   </channel>
   <programme start="20260625210000 +0000" stop="20260626000000 +0000" channel="10149">
-    <title lang="en">Ivory Coast at Curaçao</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"/>
-  </programme>
-  <programme start="20260625210000 +0000" stop="20260626000000 +0000" channel="10149">
     <title lang="en">Ivory Coast at Curaçao (Arabic)</title>
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"/>
