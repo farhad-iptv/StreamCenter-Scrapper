@@ -106,6 +106,15 @@
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/tun.png"/>
   </programme>
+  <channel id="10155">
+    <display-name lang="en">Los Angeles Sparks at Toronto Tempo</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
+  </channel>
+  <programme start="20260626000000 +0000" stop="20260626030000 +0000" channel="10155">
+    <title lang="en">Los Angeles Sparks at Toronto Tempo</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
+  </programme>
   <channel id="10145">
     <display-name lang="en">Texas Rangers at Toronto Blue Jays</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"/>
@@ -174,5 +183,23 @@
     <title lang="en">United States at Türkiye (Spanish)</title>
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/tur.png"/>
+  </programme>
+  <channel id="10156">
+    <display-name lang="en">Dallas Wings at Las Vegas Aces</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"/>
+  </channel>
+  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10156">
+    <title lang="en">Dallas Wings at Las Vegas Aces</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"/>
+  </programme>
+  <channel id="10157">
+    <display-name lang="en">New York Liberty at Seattle Storm</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
+  </channel>
+  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10157">
+    <title lang="en">New York Liberty at Seattle Storm</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
   </programme>
 </tv>
