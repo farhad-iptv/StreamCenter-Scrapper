@@ -1,7 +1,7 @@
 {
   "source": "https://streams.center",
   "api": "https://backend.streamcenter.live/api",
-  "generated_at": "2026-06-26 08:33:40 UTC",
+  "generated_at": "2026-06-26 11:33:54 UTC",
   "total_streams": 3,
   "streams": [
     {
@@ -9,7 +9,7 @@
       "name": "Lenovo Austrian Grand Prix",
       "event_name": "Lenovo Austrian Grand Prix",
       "language": "English",
-      "url": "https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=r53hZyi2WjhJ9nZycsVKSDYeZTT5MpW27magEbPMUKk&e=1782473619",
+      "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=L1VJu-8fpR67L7sWZytiPaSBf07JlpYXnBJOwBqcY7U&e=1782484433",
       "category_id": 15,
       "category_name": "Motor Sport",
       "start": "2026-06-26T12:30:00",
@@ -23,7 +23,7 @@
       "name": "Lenovo Austrian Grand Prix Free Practice 2",
       "event_name": "Lenovo Austrian Grand Prix Free Practice 2",
       "language": "English",
-      "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=r53hZyi2WjhJ9nZycsVKSDYeZTT5MpW27magEbPMUKk&e=1782473619",
+      "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=L1VJu-8fpR67L7sWZytiPaSBf07JlpYXnBJOwBqcY7U&e=1782484433",
       "category_id": 15,
       "category_name": "Motor Sport",
       "start": "2026-06-26T16:00:00",
@@ -37,7 +37,7 @@
       "name": "Moto GP Netherlands",
       "event_name": "Moto GP Netherlands",
       "language": "English",
-      "url": "https://edgestreams.pro/hls/oeenzgezcz47.m3u8?st=_qajb-rRbyiZuga0Dw1sXNcoQb7mF7SlXRqgSthUIS8&e=1782473619",
+      "url": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?st=40RWsnH6R6V2Fz1DciRq74fK9mv57hdKQMcy-YOVink&e=1782484433",
       "category_id": 15,
       "category_name": "Motor Sport",
       "start": "2026-06-26T21:45:00",
