@@ -1,64 +1,30 @@
 {
   "source": "https://streams.center",
-  "generated_at": "2026-06-26 04:51:45 UTC",
+  "generated_at": "2026-06-26 08:33:40 UTC",
   "categories": {
-    "Football": [
+    "Motor Sport": [
       {
-        "id": "10153",
-        "name": "Australia at Paraguay",
-        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=6m9KFSDqn2fQtIYGbFCTYOf6zTA8w3S9haKbvydBIXI&e=1782460304",
-        "start": "2026-06-26 03:00 UTC",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+        "id": "10158",
+        "name": "Lenovo Austrian Grand Prix",
+        "url": "https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=r53hZyi2WjhJ9nZycsVKSDYeZTT5MpW27magEbPMUKk&e=1782473619",
+        "start": "2026-06-26 12:30 UTC",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&s=10",
         "language": "English"
       },
       {
-        "id": "10153",
-        "name": "Australia at Paraguay (Arabic)",
-        "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=UDx2kb_Pu0bRyHgrD3D0JNbFi2uARkYYbB1S7w7LrGQ&e=1782460304",
-        "start": "2026-06-26 03:00 UTC",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
-        "language": "Arabic"
-      },
-      {
-        "id": "10154",
-        "name": "United States at Türkiye",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=2b8njbHXNstvcjTq-xrJrQZUqhTahBzu8pfBKXzfy_M&e=1782460304",
-        "start": "2026-06-26 03:00 UTC",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+        "id": "10159",
+        "name": "Lenovo Austrian Grand Prix Free Practice 2",
+        "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=r53hZyi2WjhJ9nZycsVKSDYeZTT5MpW27magEbPMUKk&e=1782473619",
+        "start": "2026-06-26 16:00 UTC",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&s=10",
         "language": "English"
       },
       {
-        "id": "10154",
-        "name": "United States at Türkiye (Arabic)",
-        "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=reqMu52RVpVshiAKygQRNFRLkeP3ZiGTvf8RN4Z8buU&e=1782460304",
-        "start": "2026-06-26 03:00 UTC",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
-        "language": "Arabic"
-      },
-      {
-        "id": "10154",
-        "name": "United States at Türkiye (Spanish)",
-        "url": "https://edgestreams.pro/hls/griogoehvn2.m3u8?st=iI-I03WJIA0G__FoiNjanqLvmdMmkO2bT93uecdVVDs&e=1782460304",
-        "start": "2026-06-26 03:00 UTC",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
-        "language": "Spanish"
-      }
-    ],
-    "Basketball": [
-      {
-        "id": "10156",
-        "name": "Dallas Wings at Las Vegas Aces",
-        "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=YlIG9UK6-__3mMJc_f1iInhkL9PdpBvAlyQilaf-PZQ&e=1782460305",
-        "start": "2026-06-26 03:00 UTC",
-        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png",
-        "language": "English"
-      },
-      {
-        "id": "10157",
-        "name": "New York Liberty at Seattle Storm",
-        "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=KzLgM723OfLxyXf6Fv4ARnOzzZUpZ_ECR0B5W7Ybl6g&e=1782460305",
-        "start": "2026-06-26 03:00 UTC",
-        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png",
+        "id": "10160",
+        "name": "Moto GP Netherlands",
+        "url": "https://edgestreams.pro/hls/oeenzgezcz47.m3u8?st=_qajb-rRbyiZuga0Dw1sXNcoQb7mF7SlXRqgSthUIS8&e=1782473619",
+        "start": "2026-06-26 21:45 UTC",
+        "logo": "https://streams.center/favicon.ico",
         "language": "English"
       }
     ]

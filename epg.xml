@@ -1,54 +1,30 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10153">
-    <display-name lang="en">Australia at Paraguay</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/par.png"/>
+  <channel id="10158">
+    <display-name lang="en">Lenovo Austrian Grand Prix</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&amp;s=10"/>
   </channel>
-  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10153">
-    <title lang="en">Australia at Paraguay</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/par.png"/>
+  <programme start="20260626123000 +0000" stop="20260626153000 +0000" channel="10158">
+    <title lang="en">Lenovo Austrian Grand Prix</title>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&amp;s=10"/>
   </programme>
-  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10153">
-    <title lang="en">Australia at Paraguay (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/par.png"/>
-  </programme>
-  <channel id="10154">
-    <display-name lang="en">United States at Türkiye</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/tur.png"/>
+  <channel id="10159">
+    <display-name lang="en">Lenovo Austrian Grand Prix Free Practice 2</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&amp;s=10"/>
   </channel>
-  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10154">
-    <title lang="en">United States at Türkiye</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/tur.png"/>
+  <programme start="20260626160000 +0000" stop="20260626190000 +0000" channel="10159">
+    <title lang="en">Lenovo Austrian Grand Prix Free Practice 2</title>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUj8ODlDiFsatRHIWqWN5uAEXSLk2YLqtLCGIG3jM6SES_tJv9aAoVZg&amp;s=10"/>
   </programme>
-  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10154">
-    <title lang="en">United States at Türkiye (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/tur.png"/>
-  </programme>
-  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10154">
-    <title lang="en">United States at Türkiye (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/tur.png"/>
-  </programme>
-  <channel id="10156">
-    <display-name lang="en">Dallas Wings at Las Vegas Aces</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"/>
+  <channel id="10160">
+    <display-name lang="en">Moto GP Netherlands</display-name>
+    <icon src="https://streams.center/favicon.ico"/>
   </channel>
-  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10156">
-    <title lang="en">Dallas Wings at Las Vegas Aces</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"/>
-  </programme>
-  <channel id="10157">
-    <display-name lang="en">New York Liberty at Seattle Storm</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
-  </channel>
-  <programme start="20260626030000 +0000" stop="20260626060000 +0000" channel="10157">
-    <title lang="en">New York Liberty at Seattle Storm</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"/>
+  <programme start="20260626214500 +0000" stop="20260627004500 +0000" channel="10160">
+    <title lang="en">Moto GP Netherlands</title>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://streams.center/favicon.ico"/>
   </programme>
 </tv>
