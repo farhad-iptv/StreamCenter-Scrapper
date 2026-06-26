@@ -1,47 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10142">
-    <display-name lang="en">Athletics Athletics at San Francisco Giants</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"/>
-  </channel>
-  <programme start="20260625204500 +0000" stop="20260625234500 +0000" channel="10142">
-    <title lang="en">Athletics Athletics at San Francisco Giants</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"/>
-  </programme>
-  <channel id="10149">
-    <display-name lang="en">Ivory Coast at Curaçao</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"/>
-  </channel>
-  <programme start="20260625210000 +0000" stop="20260626000000 +0000" channel="10149">
-    <title lang="en">Ivory Coast at Curaçao</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"/>
-  </programme>
-  <programme start="20260625210000 +0000" stop="20260626000000 +0000" channel="10149">
-    <title lang="en">Ivory Coast at Curaçao (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"/>
-  </programme>
-  <channel id="10150">
-    <display-name lang="en">Germany at Ecuador</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"/>
-  </channel>
-  <programme start="20260625210000 +0000" stop="20260626000000 +0000" channel="10150">
-    <title lang="en">Germany at Ecuador</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"/>
-  </programme>
-  <programme start="20260625210000 +0000" stop="20260626000000 +0000" channel="10150">
-    <title lang="en">Germany at Ecuador (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"/>
-  </programme>
-  <programme start="20260625210000 +0000" stop="20260626000000 +0000" channel="10150">
-    <title lang="en">Germany at Ecuador (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"/>
-  </programme>
   <channel id="10143">
     <display-name lang="en">Houston Astros at Detroit Tigers</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"/>
@@ -59,15 +17,6 @@
     <title lang="en">Philadelphia Phillies at Washington Nationals</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"/>
-  </programme>
-  <channel id="10155">
-    <display-name lang="en">Los Angeles Sparks at Toronto Tempo</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
-  </channel>
-  <programme start="20260626000000 +0000" stop="20260626030000 +0000" channel="10155">
-    <title lang="en">Los Angeles Sparks at Toronto Tempo</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
   </programme>
   <channel id="10151">
     <display-name lang="en">Sweden at Japan</display-name>
@@ -96,6 +45,15 @@
     <title lang="en">Netherlands at Tunisia (Arabic)</title>
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/tun.png"/>
+  </programme>
+  <channel id="10155">
+    <display-name lang="en">Los Angeles Sparks at Toronto Tempo</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
+  </channel>
+  <programme start="20260626000000 +0000" stop="20260626030000 +0000" channel="10155">
+    <title lang="en">Los Angeles Sparks at Toronto Tempo</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
   </programme>
   <channel id="10145">
     <display-name lang="en">Texas Rangers at Toronto Blue Jays</display-name>
