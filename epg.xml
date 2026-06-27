@@ -1,23 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10213">
-    <display-name lang="en"> 2026 NHL Draft </display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFNqRiEZMqK0q9IMLRD2aa959i6h38zoCNKwISNVcIA&amp;s=10"/>
-  </channel>
-  <programme start="20260627160000 +0000" stop="20260627190000 +0000" channel="10213">
-    <title lang="en"> 2026 NHL Draft </title>
-    <category lang="en">Hockey</category>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFNqRiEZMqK0q9IMLRD2aa959i6h38zoCNKwISNVcIA&amp;s=10"/>
-  </programme>
-  <channel id="10193">
-    <display-name lang="en">Texas Rangers at Toronto Blue Jays</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"/>
-  </channel>
-  <programme start="20260627200700 +0000" stop="20260627230700 +0000" channel="10193">
-    <title lang="en">Texas Rangers at Toronto Blue Jays</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"/>
-  </programme>
   <channel id="10194">
     <display-name lang="en">Cincinnati Reds at Pittsburgh Pirates</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"/>
