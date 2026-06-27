@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10186">
-    <display-name lang="en">Lenovo Austrian Grand Prix</display-name>
-    <icon src="https://imgs.search.brave.com/CzBJTOYxIxG7c8imzTMwQ8U7USCorOP5xd59eHrvmdo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9mb3Jt/dWxhLWxvZ28tZm9y/bXVsYS1sb2dvLWYt/Y2FyLXZlY3Rvci1m/b3JtYXQtYXZpYWJs/ZS1haS0xMjcwMzUy/MzUuanBn"/>
-  </channel>
-  <programme start="20260627113000 +0000" stop="20260627143000 +0000" channel="10186">
-    <title lang="en">Lenovo Austrian Grand Prix</title>
-    <category lang="en">Motor Sport</category>
-    <icon src="https://imgs.search.brave.com/CzBJTOYxIxG7c8imzTMwQ8U7USCorOP5xd59eHrvmdo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9mb3Jt/dWxhLWxvZ28tZm9y/bXVsYS1sb2dvLWYt/Y2FyLXZlY3Rvci1m/b3JtYXQtYXZpYWJs/ZS1haS0xMjcwMzUy/MzUuanBn"/>
-  </programme>
   <channel id="10206">
     <display-name lang="en">UFC Fight Night: Fiziev vs. Torres</display-name>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuY-sNYvklaIwJJbxkKfvleAQbSPcu44n4WszNwodgQ&amp;s=10"/>
