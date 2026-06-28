@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10237">
-    <display-name lang="en">Lenovo Austrian Grand Prix</display-name>
-    <icon src="https://streams.center/favicon.ico"/>
-  </channel>
-  <programme start="20260628140000 +0000" stop="20260628170000 +0000" channel="10237">
-    <title lang="en">Lenovo Austrian Grand Prix</title>
-    <category lang="en">Motor Sport</category>
-    <icon src="https://streams.center/favicon.ico"/>
-  </programme>
   <channel id="10221">
     <display-name lang="en">Cincinnati Reds at Pittsburgh Pirates</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"/>
