@@ -1,29 +1,74 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com///main//epg.xml"
 # Source: https://streams.center  |  API: https://backend.streamcenter.live/api
-# Generated: 2026-06-28 23:20 UTC  |  Streams: 5
+# Generated: 2026-06-29 01:37 UTC  |  Streams: 14
 # Developed By: Farhad Hossain
-
-#EXTINF:-1 tvg-id="10219" tvg-name="Las Vegas Aces at Chicago Sky" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/chi.png" group-title="Basketball" start="2026-06-28 21:00 UTC",Las Vegas Aces at Chicago Sky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=XG5oBzP4d5tTDC_YnnN6LFnzdWPRQnJSePCAj_Otyo8&e=1782699624
-
-#EXTINF:-1 tvg-id="10233" tvg-name="Atlanta Braves at San Francisco Giants" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" group-title="Baseball" start="2026-06-28 21:05 UTC",Atlanta Braves at San Francisco Giants
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=5Q9Ns23hIiM075qOjYO4MJIt5b0PF_r1Xx8BBazfNJo&e=1782699624
-
-#EXTINF:-1 tvg-id="10234" tvg-name="Los Angeles Dodgers at San Diego Padres" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" group-title="Baseball" start="2026-06-28 21:10 UTC",Los Angeles Dodgers at San Diego Padres
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=1Ys4aUUiIJJMX35t_LEQ_Z31Fw9tdmdzggHmHfkNgBs&e=1782699624
 
 #EXTINF:-1 tvg-id="10220" tvg-name="New York Liberty at Golden State Valkyries" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png" group-title="Basketball" start="2026-06-29 00:00 UTC",New York Liberty at Golden State Valkyries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=ycZ8ZxrQS19VmH4JVtrxTyj93zuwI-2d3Gxri_5Hl0w&e=1782699624
+https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=3hgJO2OtvF-dkb5s0XQJJF0Oq0LAt2J1OSZLPyrtl_k&e=1782707865
 
 #EXTINF:-1 tvg-id="10235" tvg-name="New York Yankees at Boston Red Sox" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" group-title="Baseball" start="2026-06-29 00:20 UTC",New York Yankees at Boston Red Sox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?st=adg4y-yW2HAWOu2HF85Dku0t1kC65wJMef9nrDEkHBE&e=1782699624
+https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?st=Jmrxdcrn0jEJZfNF_qG4fV0_a8JVt9bX65baazQiSGw&e=1782707865
+
+#EXTINF:-1 tvg-id="10238" tvg-name="Japan at Brazil" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football" start="2026-06-29 18:00 UTC",Japan at Brazil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=96xtjT3MaiBLZk6C4HL4NhPS9Z2Mx5PW7bGVM61ijWw&e=1782707864
+
+#EXTINF:-1 tvg-id="10238" tvg-name="Japan at Brazil (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football" start="2026-06-29 18:00 UTC",Japan at Brazil (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=JZVEH5ZTOSsjnWPx_Cp-ZxeIRfd_k0O7j1moMqSurao&e=1782707864
+
+#EXTINF:-1 tvg-id="10238" tvg-name="Japan at Brazil (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football" start="2026-06-29 18:00 UTC",Japan at Brazil (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=B2OQy8ccJQtSiQeutSWTQxI3rQ1WCiRFRAPSZupDQhY&e=1782707865
+
+#EXTINF:-1 tvg-id="10238" tvg-name="Japan at Brazil (French)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football" start="2026-06-29 18:00 UTC",Japan at Brazil (French)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=HiKPM_uqWiibDZ6Q432VrRDAz45u8Jhj20vth5GXFsk&e=1782707865
+
+#EXTINF:-1 tvg-id="10239" tvg-name="Paraguay at Germany" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football" start="2026-06-29 21:30 UTC",Paraguay at Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=c6MLA5rjJ1rQh7gd-ABUeACeAGB2UfNlIH2NacFNBtU&e=1782707863
+
+#EXTINF:-1 tvg-id="10239" tvg-name="Paraguay at Germany (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football" start="2026-06-29 21:30 UTC",Paraguay at Germany (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=JZVEH5ZTOSsjnWPx_Cp-ZxeIRfd_k0O7j1moMqSurao&e=1782707864
+
+#EXTINF:-1 tvg-id="10239" tvg-name="Paraguay at Germany (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football" start="2026-06-29 21:30 UTC",Paraguay at Germany (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=gsBNM1rq6lH7pdA6aNifkbBXE5t6Pw1niq8ABwccfaw&e=1782707864
+
+#EXTINF:-1 tvg-id="10239" tvg-name="Paraguay at Germany (French)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football" start="2026-06-29 21:30 UTC",Paraguay at Germany (French)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=LMCaA9zw9fP2pDfjFKX2e-WFDWwYlOHWILdGNaM-pYQ&e=1782707864
+
+#EXTINF:-1 tvg-id="10240" tvg-name="Morocco at Netherlands" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football" start="2026-06-30 02:00 UTC",Morocco at Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=c6MLA5rjJ1rQh7gd-ABUeACeAGB2UfNlIH2NacFNBtU&e=1782707863
+
+#EXTINF:-1 tvg-id="10240" tvg-name="Morocco at Netherlands (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football" start="2026-06-30 02:00 UTC",Morocco at Netherlands (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=KRibI0PnIZifI5oM4LRT5GzwI3HpC_dxaMI051X2eI4&e=1782707863
+
+#EXTINF:-1 tvg-id="10240" tvg-name="Morocco at Netherlands (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football" start="2026-06-30 02:00 UTC",Morocco at Netherlands (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=rq8RHOjJXJF8Ft9hqKK2KzcFAwYBKKgk_S1I2IGOrWE&e=1782707863
+
+#EXTINF:-1 tvg-id="10240" tvg-name="Morocco at Netherlands (French)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football" start="2026-06-30 02:00 UTC",Morocco at Netherlands (French)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=YY3pxCo5jixeT8X0aZ1AgCt5RFOjltw-Qnj5EgzBkxk&e=1782707863
