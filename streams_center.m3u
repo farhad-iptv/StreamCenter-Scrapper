@@ -1,74 +1,59 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com///main//epg.xml"
 # Source: https://streams.center  |  API: https://backend.streamcenter.live/api
-# Generated: 2026-07-01 23:44 UTC  |  Streams: 14
+# Generated: 2026-07-02 01:52 UTC  |  Streams: 11
 # Developed By: Farhad Hossain
-
-#EXTINF:-1 tvg-id="10289" tvg-name="Senegal at Belgium" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bel.png" group-title="Football" start="2026-07-01 21:00 UTC",Senegal at Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=S4_DUA-IrgDTYc9sIkLa-S57t85jvUOZXj868xh61xQ&e=1782960296
-
-#EXTINF:-1 tvg-id="10289" tvg-name="Senegal at Belgium (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bel.png" group-title="Football" start="2026-07-01 21:00 UTC",Senegal at Belgium (Arabic)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=ikoJ1xX1MUhuZUwx8feplD9c1tgyd5DnEaK7HAgMh2s&e=1782960296
-
-#EXTINF:-1 tvg-id="10289" tvg-name="Senegal at Belgium (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bel.png" group-title="Football" start="2026-07-01 21:00 UTC",Senegal at Belgium (Spanish)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=HskerQmYunP8O4OcD2_3uKqef9NbDwb5LORW-e0yPIs&e=1782960296
 
 #EXTINF:-1 tvg-id="10280" tvg-name="Pittsburgh Pirates at Philadelphia Phillies" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png" group-title="Baseball" start="2026-07-01 23:40 UTC",Pittsburgh Pirates at Philadelphia Phillies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=_cVwS5UPPFfy41ytMGPD1ivh-Fuc-D1-X8bWHTjfZ4Q&e=1782960296
+https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=XsV44e9aesa0XrO1mVBasJ-iTNMgZS8CFm17BZPCras&e=1782967961
 
 #EXTINF:-1 tvg-id="10281" tvg-name="St. Louis Cardinals at Atlanta Braves" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="Baseball" start="2026-07-02 00:15 UTC",St. Louis Cardinals at Atlanta Braves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=g9SJEklIEphXhA6QxFwqS34ejWLWVY9K8WcoOr9HEqk&e=1782960295
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=X_iIQPNBVAsElxJnxhWrgUBN6DVSRYZFCjfOVnNfr-g&e=1782967960
 
 #EXTINF:-1 tvg-id="10282" tvg-name="Tampa Bay Rays at Kansas City Royals" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" group-title="Baseball" start="2026-07-02 00:40 UTC",Tampa Bay Rays at Kansas City Royals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=yNW1Pvag_fkTBlhoPutbPqdfLoSIrohPdyB5Zj7U3BE&e=1782960295
-
-#EXTINF:-1 tvg-id="10283" tvg-name="Cincinnati Reds at Milwaukee Brewers" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" group-title="Baseball" start="2026-07-02 01:00 UTC",Cincinnati Reds at Milwaukee Brewers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/fskjanach24.m3u8?st=VH18UtnZ6ohVUlngxI3MDPWQfuRoscSLjAzPIBwVSsQ&e=1782960294
+https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=3vdlCXnnpf15Qcio3j6xsqEeS1Ur6l9iuaHRfssduEg&e=1782967960
 
 #EXTINF:-1 tvg-id="10290" tvg-name="Bosnia-Herzegovina at United States" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/usa.png" group-title="Football" start="2026-07-02 01:00 UTC",Bosnia-Herzegovina at United States
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=AbOUmz2LR9iSpRF_J-p8tJ-wm_6760H75R8wpnf8zPA&e=1782960295
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=m_gmalLGRXMX2gIU7IgNJI-Sm9_zKggwB5h_hY7c_Ts&e=1782967960
 
 #EXTINF:-1 tvg-id="10290" tvg-name="Bosnia-Herzegovina at United States (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/usa.png" group-title="Football" start="2026-07-02 01:00 UTC",Bosnia-Herzegovina at United States (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=m7ICCjZVcHUP8Q98HPWF1aF9hRh_TC59SA449xrHeWw&e=1782960295
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=lIlff04szxN22EvoGFP9N69Tq7164soJmV9qEsi3jSQ&e=1782967960
 
 #EXTINF:-1 tvg-id="10290" tvg-name="Bosnia-Herzegovina at United States (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/usa.png" group-title="Football" start="2026-07-02 01:00 UTC",Bosnia-Herzegovina at United States (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=EJpiAxRPagWN3wTrfeyLXqEg5bR8WKyv9YCoE7GW-XQ&e=1782960295
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=bUmVgoX52Zs1kDarO3McOt4xgDW3hhUBnwqFZJIV76E&e=1782967960
+
+#EXTINF:-1 tvg-id="10283" tvg-name="Cincinnati Reds at Milwaukee Brewers" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" group-title="Baseball" start="2026-07-02 01:00 UTC",Cincinnati Reds at Milwaukee Brewers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/fskjanach24.m3u8?st=q_uYYQLgugIQ-T6yCHYTJv7p7E3sZg6bCleMQYf4VKI&e=1782967960
 
 #EXTINF:-1 tvg-id="10284" tvg-name="Minnesota Twins at Houston Astros" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-title="Baseball" start="2026-07-02 01:10 UTC",Minnesota Twins at Houston Astros
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/kjhfzua25.m3u8?st=XLRoDYMCExn0oK92IdpyGscLJxuS41Z3oIHWhn3X5ts&e=1782960294
+https://mainstreams.pro/hls/kjhfzua25.m3u8?st=C8pWRIOwYTDgRjrpaav9YISZR1hzRYb25-Qe2uc-rec&e=1782967960
 
 #EXTINF:-1 tvg-id="10285" tvg-name="Miami Marlins at Colorado Rockies" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Baseball" start="2026-07-02 01:40 UTC",Miami Marlins at Colorado Rockies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=0aGr3MXJL3xg4K8VL1utbUx1pmbDel6wzk8AiYRS0WE&e=1782960294
+https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=cf0S9TzCP0P6M43XlbJGdzhr71TWoDv-Aw_fMvY15As&e=1782967960
 
 #EXTINF:-1 tvg-id="10286" tvg-name="Los Angeles Dodgers at Athletics Athletics" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" group-title="Baseball" start="2026-07-02 02:40 UTC",Los Angeles Dodgers at Athletics Athletics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=NDu_f2O5h_baE_7faizkf1vQvPnh6aerKpyYUdPwG3U&e=1782960294
+https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=Xkl4jRCCiJ0Ytcam5FiKzwfEmfdLlR9ySxj2YNfBEwY&e=1782967960
 
 #EXTINF:-1 tvg-id="10287" tvg-name="San Francisco Giants at Arizona Diamondbacks" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-title="Baseball" start="2026-07-02 02:40 UTC",San Francisco Giants at Arizona Diamondbacks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=BNrJ0LKEhJJK-t_zfF3LV1UcVfpySE1XiZPIk8LPbTg&e=1782960294
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=J8farvjJgUxS7cRVbv9QgJEzznn-smXTtZAUOkR6Rwk&e=1782967960
