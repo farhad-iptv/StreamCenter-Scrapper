@@ -1,109 +1,109 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com///main//epg.xml"
 # Source: https://streams.center  |  API: https://backend.streamcenter.live/api
-# Generated: 2026-07-02 14:24 UTC  |  Streams: 21
+# Generated: 2026-07-02 16:21 UTC  |  Streams: 21
 # Developed By: Farhad Hossain
 
 #EXTINF:-1 tvg-id="10294" tvg-name="Pittsburgh Pirates at Philadelphia Phillies" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png" group-title="Baseball" start="2026-07-02 17:35 UTC",Pittsburgh Pirates at Philadelphia Phillies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/dazhfiach15.m3u8?st=nncygA32ye_texCPJvGCJ_NbxcNjFwfqWdHwcWQ-D88&e=1783013065
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=TCu38J_vfNlW1oAtQRXsSLxrDAovKbvBbA3bIoYgfd8&e=1783020060
 
 #EXTINF:-1 tvg-id="10295" tvg-name="Cincinnati Reds at Milwaukee Brewers" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" group-title="Baseball" start="2026-07-02 19:10 UTC",Cincinnati Reds at Milwaukee Brewers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=DmChw7H1mXTrlgwjkEqxK3dIY-qW0TKPbaC2W_6LayI&e=1783013065
+https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=T4lHnHMqezOxrilNIhyBjltkoDHrrtPFC8uDepZIdVM&e=1783020060
 
 #EXTINF:-1 tvg-id="10291" tvg-name="Austria at Spain" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/esp.png" group-title="Football" start="2026-07-02 20:00 UTC",Austria at Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=xc9Q_Ky42NFVG5aorR9gUQn3ho-rTxCXTkdnCPuWPOY&e=1783013065
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=DD_FMy2lWbeVCp2lbKxDO0TvBd6YSUjZSrIzpDHmuMQ&e=1783020059
 
 #EXTINF:-1 tvg-id="10291" tvg-name="Austria at Spain (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/esp.png" group-title="Football" start="2026-07-02 20:00 UTC",Austria at Spain (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=kO3QOQamQ3PjkVCW_pxndXNXEyxiTbOJVmdirT8lTRI&e=1783013065
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=P0iudKwKavrYt8kzxUCaFRN_64OfCA04WnTxdYYgGa4&e=1783020059
 
 #EXTINF:-1 tvg-id="10291" tvg-name="Austria at Spain (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/esp.png" group-title="Football" start="2026-07-02 20:00 UTC",Austria at Spain (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=DPYUu2LSB3pqFItfr8Nst85yArYKE6QPZ1MxbyyZdIY&e=1783013065
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=8-Xx5W5w143czcBXQMHzxW5aiaR8CWdeXboWw1JtB-M&e=1783020060
 
 #EXTINF:-1 tvg-id="10296" tvg-name="Miami Marlins at Colorado Rockies" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Baseball" start="2026-07-02 20:10 UTC",Miami Marlins at Colorado Rockies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=ehXjj-Xu6QHUJuSYI44DsZw-uC3ylTT6MSTmnGaiFqE&e=1783013065
+https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=sksqnv9iTmndy6zBhjIv-a3_qBu3CuD6t25tQdyPdcg&e=1783020059
 
 #EXTINF:-1 tvg-id="10297" tvg-name="Chicago White Sox at Cleveland Guardians" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png" group-title="Baseball" start="2026-07-02 23:40 UTC",Chicago White Sox at Cleveland Guardians
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=rsJ2LyeNAZUVP63FCu_b_SqkTcCBSYf0fvbkFv_V90c&e=1783013064
+https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=wI11zTyVzrjjz79PIv9a9u10C7awNLhfSU1EjRWdFR0&e=1783020059
 
 #EXTINF:-1 tvg-id="10292" tvg-name="Croatia at Portugal" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/por.png" group-title="Football" start="2026-07-03 00:00 UTC",Croatia at Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=BAye2hRZlIyTH9qQF-3t3lowQmBgcX-y74_saM1z7zE&e=1783013064
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=DD_FMy2lWbeVCp2lbKxDO0TvBd6YSUjZSrIzpDHmuMQ&e=1783020059
 
 #EXTINF:-1 tvg-id="10292" tvg-name="Croatia at Portugal (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/por.png" group-title="Football" start="2026-07-03 00:00 UTC",Croatia at Portugal (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=PJDkJZcltPdExZJqnitQRtHxwWaZa_QpvRuoOpvh3UY&e=1783013064
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=P0iudKwKavrYt8kzxUCaFRN_64OfCA04WnTxdYYgGa4&e=1783020059
 
 #EXTINF:-1 tvg-id="10292" tvg-name="Croatia at Portugal (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/por.png" group-title="Football" start="2026-07-03 00:00 UTC",Croatia at Portugal (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=dl2DC4nhntkBtV-v8ySa_vAovypiUA9OO8HpHnkXBRU&e=1783013064
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=p3BFDHAs6CWayr8VxO2BRhjyq3gy2WErJilTcnmrc6M&e=1783020059
 
 #EXTINF:-1 tvg-id="10298" tvg-name="St. Louis Cardinals at Atlanta Braves" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="Baseball" start="2026-07-03 00:15 UTC",St. Louis Cardinals at Atlanta Braves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=hBflgNgdPN7rxSBEVKODuLGweusVdtp11neRrAHJgy8&e=1783013064
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=TYJwcQVPmCs5idfXF3EBxiikIdNHjyVW6dl5juj7K1s&e=1783020059
 
 #EXTINF:-1 tvg-id="10303" tvg-name="Atlanta Dream at Washington Mystics" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png" group-title="Basketball" start="2026-07-03 00:30 UTC",Atlanta Dream at Washington Mystics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=d9eTD6bxpV1BDdbo6F-WUQYUjgti8wqbuS_z7Yn4Qwg&e=1783013064
+https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=yS2ibS1AATNMlfv1MRYF11liXyxytahZ-gNqEOU1hl8&e=1783020058
 
 #EXTINF:-1 tvg-id="10299" tvg-name="Tampa Bay Rays at Kansas City Royals" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" group-title="Baseball" start="2026-07-03 00:40 UTC",Tampa Bay Rays at Kansas City Royals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=VKi5V-OPAct55ku68lijq2BOhAwGGfjy6YXPX04AhDw&e=1783013064
+https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=bHvhADtBYJevQI9-nLkARr0epYPsyQKsA0FHM-YY00A&e=1783020058
 
 #EXTINF:-1 tvg-id="10304" tvg-name="Dallas Wings at Connecticut Sun" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/con.png" group-title="Basketball" start="2026-07-03 01:00 UTC",Dallas Wings at Connecticut Sun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=hufeRMfERbLfTcRmQy4FIfmNpIexKLdFZAb36-U0YVY&e=1783013064
+https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=5LqNgx5KICgl3RqoB7yEkTt6iJQSsSgvBqcTW4-aBkQ&e=1783020058
 
 #EXTINF:-1 tvg-id="10300" tvg-name="Detroit Tigers at Texas Rangers" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Baseball" start="2026-07-03 01:05 UTC",Detroit Tigers at Texas Rangers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=LrnD2MUPBJ3OdEINMvmuZqjUgZrtV_qf-fh_XDuqKHA&e=1783013064
+https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=KcuvvpZACmMzJjdtW6aPTio_osUFXFsMoL2yxHBYSaU&e=1783020058
 
 #EXTINF:-1 tvg-id="10301" tvg-name="Los Angeles Angels at Seattle Mariners" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Baseball" start="2026-07-03 02:40 UTC",Los Angeles Angels at Seattle Mariners
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=IHvoO5DtbRRZPAu-rN9MESzkPRzpjF4IJrGluaYDZk8&e=1783013064
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=oEvws_hVfKdNjiH2kpw3dsJIqsYeazLCTX4tKNaMyOU&e=1783020058
 
 #EXTINF:-1 tvg-id="10305" tvg-name="Seattle Storm at Phoenix Mercury" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png" group-title="Basketball" start="2026-07-03 03:00 UTC",Seattle Storm at Phoenix Mercury
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=oiYy4-9gwWM3H9lZViiEJ-dWqdgSJurmKRx7CGxA3ww&e=1783013063
+https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=vN3_63sTu-pCWXZJfp9Hy-az11DiWcF6lTBhLJ6ArdM&e=1783020057
 
 #EXTINF:-1 tvg-id="10302" tvg-name="San Diego Padres at Los Angeles Dodgers" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png" group-title="Baseball" start="2026-07-03 03:10 UTC",San Diego Padres at Los Angeles Dodgers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=g5zQiO8F4t3KbCrjhIhr-pxg-UmnGZPtOMNOjjz4pwQ&e=1783013063
+https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=o8k9c4wMs33JfKyC8lRZoQ6E9QQmZkmBMLVsFXkUW9Y&e=1783020057
 
 #EXTINF:-1 tvg-id="10293" tvg-name="Algeria at Switzerland" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/sui.png" group-title="Football" start="2026-07-03 04:00 UTC",Algeria at Switzerland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=1Uj6gSe1rPCM0lvi72qketvUPRuYF-nsY652hh339r0&e=1783013063
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=Ur4WZAU7eumJmTQXT1-BEtDuH20LZph_D5AYVjLVpGs&e=1783020057
 
 #EXTINF:-1 tvg-id="10293" tvg-name="Algeria at Switzerland (Arabic)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/sui.png" group-title="Football" start="2026-07-03 04:00 UTC",Algeria at Switzerland (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=vIJ3yiX4Gv9DPxGnzoUTqikn3P0lJCU0e_MPlP60bb0&e=1783013063
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=BvHV4oeIiqMpo9WLXTS28GWxad7Inn0myOfi85IYjPA&e=1783020057
 
 #EXTINF:-1 tvg-id="10293" tvg-name="Algeria at Switzerland (Spanish)" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/sui.png" group-title="Football" start="2026-07-03 04:00 UTC",Algeria at Switzerland (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=nOkrWVEXfZE6_A9f0kELpbYNFeRLTG4VDiKoCIt6JGM&e=1783013063
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=AEC59LAe-bgYZ-XFct73kC_SAADDdLECWchS-eeSAJ8&e=1783020057
