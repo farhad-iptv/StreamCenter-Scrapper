@@ -110,6 +110,15 @@
     <category lang="en">WWE</category>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7e8iO2PK_eCzzMTXZGTpz09RZiPB2i4jxXLGe4r11KQ&amp;s=10"/>
   </programme>
+  <channel id="10327">
+    <display-name lang="en">Miami Heat at San Antonio Spurs</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"/>
+  </channel>
+  <programme start="20260704010000 +0000" stop="20260704040000 +0000" channel="10327">
+    <title lang="en">Miami Heat at San Antonio Spurs</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"/>
+  </programme>
   <channel id="10317">
     <display-name lang="en">San Francisco Giants at Colorado Rockies</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"/>
@@ -200,5 +209,14 @@
     <title lang="en">Toronto Blue Jays at Seattle Mariners</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"/>
+  </programme>
+  <channel id="10328">
+    <display-name lang="en">Los Angeles Lakers at Golden State Warriors Gold</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"/>
+  </channel>
+  <programme start="20260704033000 +0000" stop="20260704063000 +0000" channel="10328">
+    <title lang="en">Los Angeles Lakers at Golden State Warriors Gold</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"/>
   </programme>
 </tv>
