@@ -1,23 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10346">
-    <display-name lang="en">Milwaukee Bucks at Golden State Warriors Blue</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"/>
-  </channel>
-  <programme start="20260704200000 +0000" stop="20260704230000 +0000" channel="10346">
-    <title lang="en">Milwaukee Bucks at Golden State Warriors Blue</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"/>
-  </programme>
-  <channel id="10347">
-    <display-name lang="en">Memphis Grizzlies at Oklahoma City Thunder</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"/>
-  </channel>
-  <programme start="20260704200000 +0000" stop="20260704230000 +0000" channel="10347">
-    <title lang="en">Memphis Grizzlies at Oklahoma City Thunder</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"/>
-  </programme>
   <channel id="10333">
     <display-name lang="en">Detroit Tigers at Texas Rangers</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"/>
