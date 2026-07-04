@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10351">
-    <display-name lang="en">Pirelli British Grand Prix</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqjyR10plaX073Or05pH-BI5uAAvszXhslIe3pcW6BV1Fgdebkj2uqM&amp;s=10"/>
-  </channel>
-  <programme start="20260704123000 +0000" stop="20260704153000 +0000" channel="10351">
-    <title lang="en">Pirelli British Grand Prix</title>
-    <category lang="en">Motor Sport</category>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqjyR10plaX073Or05pH-BI5uAAvszXhslIe3pcW6BV1Fgdebkj2uqM&amp;s=10"/>
-  </programme>
   <channel id="10352">
     <display-name lang="en">Pirelli British Grand Prix</display-name>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqjyR10plaX073Or05pH-BI5uAAvszXhslIe3pcW6BV1Fgdebkj2uqM&amp;s=10"/>
