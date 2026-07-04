@@ -1,86 +1,22 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10308">
-    <display-name lang="en">Ghana at Colombia</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/col.png"/>
+  <channel id="10351">
+    <display-name lang="en">Pirelli British Grand Prix</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqjyR10plaX073Or05pH-BI5uAAvszXhslIe3pcW6BV1Fgdebkj2uqM&amp;s=10"/>
   </channel>
-  <programme start="20260704023000 +0000" stop="20260704053000 +0000" channel="10308">
-    <title lang="en">Ghana at Colombia</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/col.png"/>
+  <programme start="20260704123000 +0000" stop="20260704153000 +0000" channel="10351">
+    <title lang="en">Pirelli British Grand Prix</title>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqjyR10plaX073Or05pH-BI5uAAvszXhslIe3pcW6BV1Fgdebkj2uqM&amp;s=10"/>
   </programme>
-  <programme start="20260704023000 +0000" stop="20260704053000 +0000" channel="10308">
-    <title lang="en">Ghana at Colombia (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/col.png"/>
-  </programme>
-  <programme start="20260704023000 +0000" stop="20260704053000 +0000" channel="10308">
-    <title lang="en">Ghana at Colombia (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/col.png"/>
-  </programme>
-  <channel id="10319">
-    <display-name lang="en">Boston Red Sox at Los Angeles Angels</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"/>
+  <channel id="10352">
+    <display-name lang="en">Pirelli British Grand Prix</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqjyR10plaX073Or05pH-BI5uAAvszXhslIe3pcW6BV1Fgdebkj2uqM&amp;s=10"/>
   </channel>
-  <programme start="20260704023800 +0000" stop="20260704053800 +0000" channel="10319">
-    <title lang="en">Boston Red Sox at Los Angeles Angels</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"/>
-  </programme>
-  <channel id="10320">
-    <display-name lang="en">Miami Marlins at Athletics Athletics</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
-  </channel>
-  <programme start="20260704024000 +0000" stop="20260704054000 +0000" channel="10320">
-    <title lang="en">Miami Marlins at Athletics Athletics</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
-  </programme>
-  <channel id="10321">
-    <display-name lang="en">Milwaukee Brewers at Arizona Diamondbacks</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"/>
-  </channel>
-  <programme start="20260704024500 +0000" stop="20260704054500 +0000" channel="10321">
-    <title lang="en">Milwaukee Brewers at Arizona Diamondbacks</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"/>
-  </programme>
-  <channel id="10325">
-    <display-name lang="en">Chicago Sky at Las Vegas Aces</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"/>
-  </channel>
-  <programme start="20260704030000 +0000" stop="20260704060000 +0000" channel="10325">
-    <title lang="en">Chicago Sky at Las Vegas Aces</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"/>
-  </programme>
-  <channel id="10322">
-    <display-name lang="en">San Diego Padres at Los Angeles Dodgers</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"/>
-  </channel>
-  <programme start="20260704031000 +0000" stop="20260704061000 +0000" channel="10322">
-    <title lang="en">San Diego Padres at Los Angeles Dodgers</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"/>
-  </programme>
-  <channel id="10323">
-    <display-name lang="en">Toronto Blue Jays at Seattle Mariners</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"/>
-  </channel>
-  <programme start="20260704031000 +0000" stop="20260704061000 +0000" channel="10323">
-    <title lang="en">Toronto Blue Jays at Seattle Mariners</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"/>
-  </programme>
-  <channel id="10328">
-    <display-name lang="en">Los Angeles Lakers at Golden State Warriors Gold</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"/>
-  </channel>
-  <programme start="20260704033000 +0000" stop="20260704063000 +0000" channel="10328">
-    <title lang="en">Los Angeles Lakers at Golden State Warriors Gold</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"/>
+  <programme start="20260704160000 +0000" stop="20260704190000 +0000" channel="10352">
+    <title lang="en">Pirelli British Grand Prix</title>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqjyR10plaX073Or05pH-BI5uAAvszXhslIe3pcW6BV1Fgdebkj2uqM&amp;s=10"/>
   </programme>
   <channel id="10331">
     <display-name lang="en">Pittsburgh Pirates at Washington Nationals</display-name>
@@ -173,6 +109,24 @@
     <title lang="en">France at Paraguay (Spanish)</title>
     <category lang="en">Football</category>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/par.png"/>
+  </programme>
+  <channel id="10348">
+    <display-name lang="en">Brooklyn Nets at Sacramento Kings</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png"/>
+  </channel>
+  <programme start="20260704220000 +0000" stop="20260705010000 +0000" channel="10348">
+    <title lang="en">Brooklyn Nets at Sacramento Kings</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png"/>
+  </programme>
+  <channel id="10349">
+    <display-name lang="en">Atlanta Hawks at Utah Jazz</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"/>
+  </channel>
+  <programme start="20260704220000 +0000" stop="20260705010000 +0000" channel="10349">
+    <title lang="en">Atlanta Hawks at Utah Jazz</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"/>
   </programme>
   <channel id="10335">
     <display-name lang="en">Baltimore Orioles at Cincinnati Reds</display-name>
