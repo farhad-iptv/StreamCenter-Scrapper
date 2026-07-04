@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10331">
-    <display-name lang="en">Pittsburgh Pirates at Washington Nationals</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"/>
-  </channel>
-  <programme start="20260704160500 +0000" stop="20260704190500 +0000" channel="10331">
-    <title lang="en">Pittsburgh Pirates at Washington Nationals</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"/>
-  </programme>
   <channel id="10329">
     <display-name lang="en">Morocco at Canada</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/can.png"/>
