@@ -1,69 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10363">
-    <display-name lang="en">Philadelphia Phillies at Kansas City Royals</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
-  </channel>
-  <programme start="20260705200000 +0000" stop="20260705230000 +0000" channel="10363">
-    <title lang="en">Philadelphia Phillies at Kansas City Royals</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"/>
-  </programme>
-  <channel id="10377">
-    <display-name lang="en">Dallas Wings at Toronto Tempo</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
-  </channel>
-  <programme start="20260705200000 +0000" stop="20260705230000 +0000" channel="10377">
-    <title lang="en">Dallas Wings at Toronto Tempo</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
-  </programme>
-  <channel id="10372">
-    <display-name lang="en">Brooklyn Nets at Milwaukee Bucks</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"/>
-  </channel>
-  <programme start="20260705200000 +0000" stop="20260705230000 +0000" channel="10372">
-    <title lang="en">Brooklyn Nets at Milwaukee Bucks</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"/>
-  </programme>
-  <channel id="10364">
-    <display-name lang="en">Detroit Tigers at Texas Rangers</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"/>
-  </channel>
-  <programme start="20260705203000 +0000" stop="20260705233000 +0000" channel="10364">
-    <title lang="en">Detroit Tigers at Texas Rangers</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"/>
-  </programme>
-  <channel id="10365">
-    <display-name lang="en">Tampa Bay Rays at Houston Astros</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"/>
-  </channel>
-  <programme start="20260705203000 +0000" stop="20260705233000 +0000" channel="10365">
-    <title lang="en">Tampa Bay Rays at Houston Astros</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"/>
-  </programme>
-  <channel id="10355">
-    <display-name lang="en">Norway at Brazil</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/bra.png"/>
-  </channel>
-  <programme start="20260705210000 +0000" stop="20260706000000 +0000" channel="10355">
-    <title lang="en">Norway at Brazil</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/bra.png"/>
-  </programme>
-  <programme start="20260705210000 +0000" stop="20260706000000 +0000" channel="10355">
-    <title lang="en">Norway at Brazil (Arabic)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/bra.png"/>
-  </programme>
-  <programme start="20260705210000 +0000" stop="20260706000000 +0000" channel="10355">
-    <title lang="en">Norway at Brazil (Spanish)</title>
-    <category lang="en">Football</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/countries/500/bra.png"/>
-  </programme>
   <channel id="10366">
     <display-name lang="en">San Francisco Giants at Colorado Rockies</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"/>
@@ -82,15 +18,6 @@
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"/>
   </programme>
-  <channel id="10373">
-    <display-name lang="en">Miami Heat at Los Angeles Lakers</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"/>
-  </channel>
-  <programme start="20260705213000 +0000" stop="20260706003000 +0000" channel="10373">
-    <title lang="en">Miami Heat at Los Angeles Lakers</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"/>
-  </programme>
   <channel id="10368">
     <display-name lang="en">Miami Marlins at Athletics Athletics</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
@@ -99,6 +26,15 @@
     <title lang="en">Miami Marlins at Athletics Athletics</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"/>
+  </programme>
+  <channel id="10373">
+    <display-name lang="en">Miami Heat at Los Angeles Lakers</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"/>
+  </channel>
+  <programme start="20260705213000 +0000" stop="20260706003000 +0000" channel="10373">
+    <title lang="en">Miami Heat at Los Angeles Lakers</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"/>
   </programme>
   <channel id="10374">
     <display-name lang="en">Golden State Warriors Blue at Sacramento Kings</display-name>
