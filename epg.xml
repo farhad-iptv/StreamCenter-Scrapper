@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10420">
-    <display-name lang="en">Toronto Blue Jays at San Francisco Giants</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"/>
-  </channel>
-  <programme start="20260708204500 +0000" stop="20260708234500 +0000" channel="10420">
-    <title lang="en">Toronto Blue Jays at San Francisco Giants</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"/>
-  </programme>
   <channel id="10421">
     <display-name lang="en">Chicago Cubs at Baltimore Orioles</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"/>
@@ -63,15 +54,6 @@
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"/>
   </programme>
-  <channel id="10435">
-    <display-name lang="en">Golden State Valkyries at Toronto Tempo</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
-  </channel>
-  <programme start="20260709000000 +0000" stop="20260709030000 +0000" channel="10435">
-    <title lang="en">Golden State Valkyries at Toronto Tempo</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
-  </programme>
   <channel id="10427">
     <display-name lang="en">Philadelphia Phillies at Cincinnati Reds</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"/>
@@ -80,6 +62,15 @@
     <title lang="en">Philadelphia Phillies at Cincinnati Reds</title>
     <category lang="en">Baseball</category>
     <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"/>
+  </programme>
+  <channel id="10435">
+    <display-name lang="en">Golden State Valkyries at Toronto Tempo</display-name>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
+  </channel>
+  <programme start="20260709000000 +0000" stop="20260709030000 +0000" channel="10435">
+    <title lang="en">Golden State Valkyries at Toronto Tempo</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"/>
   </programme>
   <channel id="10428">
     <display-name lang="en">Kansas City Royals at New York Mets</display-name>
