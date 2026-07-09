@@ -1,23 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="streams.center extractor" generator-info-url="https://streams.center">
-  <channel id="10443">
-    <display-name lang="en">Boston Red Sox at Chicago White Sox</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </channel>
-  <programme start="20260709191000 +0000" stop="20260709221000 +0000" channel="10443">
-    <title lang="en">Boston Red Sox at Chicago White Sox</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"/>
-  </programme>
-  <channel id="10452">
-    <display-name lang="en">Minnesota Timberwolves at New Orleans Pelicans</display-name>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"/>
-  </channel>
-  <programme start="20260709203000 +0000" stop="20260709233000 +0000" channel="10452">
-    <title lang="en">Minnesota Timberwolves at New Orleans Pelicans</title>
-    <category lang="en">Basketball</category>
-    <icon src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"/>
-  </programme>
   <channel id="10438">
     <display-name lang="en">Morocco at France</display-name>
     <icon src="https://a.espncdn.com/i/teamlogos/countries/500/fra.png"/>
